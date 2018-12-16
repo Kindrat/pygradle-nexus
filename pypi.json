@@ -1,0 +1,5 @@
+{
+  "name": "pypi",
+  "type": "groovy",
+  "content": "repository.createPyPiHosted('pypi')"
+}
